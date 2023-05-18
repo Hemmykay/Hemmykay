@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Emmanuel @Hemmykay
+- 👋 Hi, I’m Emmanuel
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning solana core
 - 💞️ I’m looking to collaborate on Blockchain Development
-- 📫 How to reach me through mail
 
 <!---
 Hemmykay/Hemmykay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
